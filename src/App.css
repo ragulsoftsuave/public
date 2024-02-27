@@ -226,3 +226,7 @@
   border-radius: 3px;
   padding-left: 10px;
 }
+
+.hide{
+  visibility: hidden;
+}
